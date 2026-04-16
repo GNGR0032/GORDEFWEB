@@ -10,7 +10,7 @@ Isparta merkezli bir e-ticaret girişimcisi, dijital içerik üreticisi ve yazı
 ### 🛠️ Teknoloji Yığınınız
 - **Mobil & Web:** Flutter, React Native, Next.js
 - **Yapay Zeka & Otomasyon:** Gemini API, Claude Code, n8n
-- **Altyapı:** Vultr, Shopify, Google Search Console
+- **Altyapı:** Vultr, Shopify, Google Search Console,Next JS
 
 ### 📬 Bana Ulaşın
 - **Web:** [gordef.com](https://www.gordef.com)
